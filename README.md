@@ -14,7 +14,6 @@ This folder contains datasets that have been preprocessed and are ready for anal
   - `condition_data.csv`
   - `expanded_claim_dataset.csv`
   - `filtered_claim_dataset.csv`
-  - `result_pet.csv`
 
 ### Raw Data
 This folder contains raw datasets before any preprocessing steps have been applied.
@@ -74,7 +73,7 @@ Allianz_Pet/
 │ ├── condition_data.csv
 │ ├── expanded_claim_dataset.csv
 │ ├── filtered_claim_dataset.csv
-│ └── result_pet.csv
+│ 
 ├── Raw Data/
 │ ├── Audit_status.csv
 │ ├── Claim_data.csv
